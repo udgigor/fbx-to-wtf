@@ -1,7 +1,7 @@
 # fbx-to-wtf
 convert .fbx 3D model files to .wtf files via Blender
 
-An FBX file dragged onto the .bat file will run Blenders python script "fbxtowtf.py" andproduce a .wtf file that works in igame3d!
+An FBX file dragged onto the .bat file will run Blenders python script "fbxtowtf.py" and produce a .wtf file that works in igame3d!
 
 ChatGPT crappped out before I we could figure out the part where unjoined models in the scene would make it into the WTF file.
 
